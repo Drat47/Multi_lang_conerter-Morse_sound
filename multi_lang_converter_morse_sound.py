@@ -3,6 +3,9 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox
 import time
 import numpy as np
+import simpleaudio as sa
+import winsound
+winsound.Beep(700, 150)  # frequency, duration in ms
 
 # ---------------------------
 # Braille Mapping
