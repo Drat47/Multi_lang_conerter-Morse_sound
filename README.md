@@ -1,5 +1,5 @@
 
-# Multi-language Converter with Braille, Morse, TTS & Audio Beeps
+# Multi-language Connector with Braille, Morse, TTS & Audio Beeps
 
 This is a Python desktop application that converts text between English, Braille, and Morse code, with additional features for accessibility including text-to-speech and Morse code audio beeps. The project also visually simulates Braille dots for enhanced interactive learning.
 
